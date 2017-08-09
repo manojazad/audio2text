@@ -1,0 +1,13 @@
+ven
+target/
+bin/
+test-output/
+out/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
